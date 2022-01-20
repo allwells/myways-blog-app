@@ -1,0 +1,9 @@
+# MYWAYS BLOG APP
+
+Create a file `.env` in your root directory and add the following into it:
+
+PORT=YOUR_PORT_NUMBER_HERE
+
+MONGODB_URI=YOUR_MONGODB_DATABASE_URI_HERE
+
+SECRET=YOUR_SECRET_FOR_HASHING_HERE

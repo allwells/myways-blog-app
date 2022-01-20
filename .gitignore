@@ -1,0 +1,4 @@
+node_modules/
+request/
+yarn-error.log
+# .env
